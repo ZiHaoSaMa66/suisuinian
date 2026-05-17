@@ -1,5 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>只是碎碎念</title><link>https://ZiHaoSaMa66.github.io/suisuinian</link><description>记录生活</description><copyright>只是碎碎念</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/134737096</url><title>avatar</title><link>https://ZiHaoSaMa66.github.io/suisuinian</link></image><lastBuildDate>Tue, 28 Apr 2026 17:52:45 +0000</lastBuildDate><managingEditor>只是碎碎念</managingEditor><ttl>60</ttl><webMaster>只是碎碎念</webMaster><item><title>如何使用Astral和朋友联机</title><link>https://ZiHaoSaMa66.github.io/suisuinian/post/ru-he-shi-yong-Astral-he-peng-you-lian-ji.html</link><description>如题. 你准备和你的朋友MC联机 
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>只是碎碎念</title><link>https://ZiHaoSaMa66.github.io/suisuinian</link><description>记录生活</description><copyright>只是碎碎念</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/134737096</url><title>avatar</title><link>https://ZiHaoSaMa66.github.io/suisuinian</link></image><lastBuildDate>Sun, 17 May 2026 12:47:31 +0000</lastBuildDate><managingEditor>只是碎碎念</managingEditor><ttl>60</ttl><webMaster>只是碎碎念</webMaster><item><title>将某个应用设置为windows系统启动时自启</title><link>https://ZiHaoSaMa66.github.io/suisuinian/post/jiang-mou-ge-ying-yong-she-zhi-wei-windows-xi-tong-qi-dong-shi-zi-qi.html</link><description>下载 [nssm-2.24.zip](https://nssm.cc/release/nssm-2.24.zip)
+
+将所需启动的软件注册为windows系统服务
+下载解压后找到电脑对应的架构在此处打开命令提示符
+键入 `nssm.exe install &lt;服务名&gt;` 
+
+接着会弹出一个GUI框 选中启动程序所在路径
+在第三行可以配置启动应用时的启动参数
+最后点`install service`完成配置
+如没有其他需求其他标签页可以不配置
+
+如需删除服务则执行 `nssm.exe remove &lt;服务名&gt;`即可。</description><guid isPermaLink="true">https://ZiHaoSaMa66.github.io/suisuinian/post/jiang-mou-ge-ying-yong-she-zhi-wei-windows-xi-tong-qi-dong-shi-zi-qi.html</guid><pubDate>Sun, 17 May 2026 12:47:05 +0000</pubDate></item><item><title>如何使用Astral和朋友联机</title><link>https://ZiHaoSaMa66.github.io/suisuinian/post/ru-he-shi-yong-Astral-he-peng-you-lian-ji.html</link><description>如题. 你准备和你的朋友MC联机 
 你的朋友给你扔了这么一个分享链接 
 `astral://room?code=xxxxxxxxxxxxxxxxxx`
 那如何使用这个房间分享链接呢
