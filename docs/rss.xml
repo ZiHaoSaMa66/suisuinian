@@ -1,5 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>只是碎碎念</title><link>https://ZiHaoSaMa66.github.io/suisuinian</link><description>记录生活</description><copyright>只是碎碎念</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/134737096</url><title>avatar</title><link>https://ZiHaoSaMa66.github.io/suisuinian</link></image><lastBuildDate>Sun, 20 Sep 2026 13:43:20 +0000</lastBuildDate><managingEditor>只是碎碎念</managingEditor><ttl>60</ttl><webMaster>只是碎碎念</webMaster><item><title>pip安装源</title><link>https://ZiHaoSaMa66.github.io/suisuinian/post/pip-an-zhuang-yuan.html</link><description>官方源   `https://pypi.org/simple/`
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>只是碎碎念</title><link>https://ZiHaoSaMa66.github.io/suisuinian</link><description>记录生活</description><copyright>只是碎碎念</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/134737096</url><title>avatar</title><link>https://ZiHaoSaMa66.github.io/suisuinian</link></image><lastBuildDate>Mon, 21 Sep 2026 14:45:05 +0000</lastBuildDate><managingEditor>只是碎碎念</managingEditor><ttl>60</ttl><webMaster>只是碎碎念</webMaster><item><title>快速查找大文件（C盘清理）</title><link>https://ZiHaoSaMa66.github.io/suisuinian/post/kuai-su-cha-zhao-da-wen-jian-%EF%BC%88C-pan-qing-li-%EF%BC%89.html</link><description>如题
+使用此软件可以快速按照树形结构查找某一磁盘当中占用大量存储空间的无用文件并且手动清理
+&gt; 非常适合清理C盘 
+&gt; 数据无价 谨慎清理
+
+[WizTree v4.05 x64（蓝奏云）](https://zihao66.lanzoub.com/i9IDp49g7phe)
+密码:dtdu
+
+软件截图如下
+
+&lt;img width='1241' height='719' alt='Image' src='https://github.com/user-attachments/assets/94259a18-14c2-4800-94dc-cc1f1b2462ca' /&gt;。</description><guid isPermaLink="true">https://ZiHaoSaMa66.github.io/suisuinian/post/kuai-su-cha-zhao-da-wen-jian-%EF%BC%88C-pan-qing-li-%EF%BC%89.html</guid><pubDate>Mon, 21 Sep 2026 14:44:33 +0000</pubDate></item><item><title>pip安装源</title><link>https://ZiHaoSaMa66.github.io/suisuinian/post/pip-an-zhuang-yuan.html</link><description>官方源   `https://pypi.org/simple/`
 阿里云   `https://mirrors.aliyun.com/pypi/simple/`
 腾讯云   `https://mirrors.cloud.tencent.com/pypi/simple/`
 清华源   `https://pypi.tuna.tsinghua.edu.cn/simple`
