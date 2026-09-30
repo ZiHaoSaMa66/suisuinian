@@ -21,3 +21,8 @@ settings.json
   "includeCoAuthoredBy": false
 }
 ```
+
+```bash
+export IS_SANDBOX=1
+claude --permission-mode bypassPermissions
+```

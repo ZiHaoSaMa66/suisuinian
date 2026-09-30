@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>只是碎碎念</title><link>https://ZiHaoSaMa66.github.io/suisuinian</link><description>记录生活</description><copyright>只是碎碎念</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/134737096</url><title>avatar</title><link>https://ZiHaoSaMa66.github.io/suisuinian</link></image><lastBuildDate>Wed, 30 Sep 2026 06:26:22 +0000</lastBuildDate><managingEditor>只是碎碎念</managingEditor><ttl>60</ttl><webMaster>只是碎碎念</webMaster><item><title>快速配置Claude Code</title><link>https://ZiHaoSaMa66.github.io/suisuinian/post/kuai-su-pei-zhi-Claude%20Code.html</link><description>记录一些会用得上的字段
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>只是碎碎念</title><link>https://ZiHaoSaMa66.github.io/suisuinian</link><description>记录生活</description><copyright>只是碎碎念</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/134737096</url><title>avatar</title><link>https://ZiHaoSaMa66.github.io/suisuinian</link></image><lastBuildDate>Wed, 30 Sep 2026 06:35:43 +0000</lastBuildDate><managingEditor>只是碎碎念</managingEditor><ttl>60</ttl><webMaster>只是碎碎念</webMaster><item><title>快速配置Claude Code</title><link>https://ZiHaoSaMa66.github.io/suisuinian/post/kuai-su-pei-zhi-Claude%20Code.html</link><description>记录一些会用得上的字段
 
 ```json
 'hasCompletedOnboarding': true
@@ -21,6 +21,11 @@ settings.json
   },
   'includeCoAuthoredBy': false
 }
+```
+
+```bash
+export IS_SANDBOX=1
+claude --permission-mode bypassPermissions
 ```。</description><guid isPermaLink="true">https://ZiHaoSaMa66.github.io/suisuinian/post/kuai-su-pei-zhi-Claude%20Code.html</guid><pubDate>Wed, 30 Sep 2026 06:25:48 +0000</pubDate></item><item><title>NAT网络环境的WSL一键设置宿主机代理</title><link>https://ZiHaoSaMa66.github.io/suisuinian/post/NAT-wang-luo-huan-jing-de-WSL-yi-jian-she-zhi-su-zhu-ji-dai-li.html</link><description>个人备忘（）
 
 ```bash
